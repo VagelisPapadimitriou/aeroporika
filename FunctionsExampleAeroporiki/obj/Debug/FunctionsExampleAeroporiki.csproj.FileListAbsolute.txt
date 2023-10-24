@@ -1,0 +1,8 @@
+C:\Users\vagelis\source\repos\FunctionsExampleAeroporiki\obj\Debug\FunctionsExampleAeroporiki.csproj.AssemblyReference.cache
+C:\Users\vagelis\source\repos\FunctionsExampleAeroporiki\obj\Debug\FunctionsExampleAeroporiki.csproj.SuggestedBindingRedirects.cache
+C:\Users\vagelis\source\repos\FunctionsExampleAeroporiki\obj\Debug\FunctionsExampleAeroporiki.csproj.CoreCompileInputs.cache
+C:\Users\vagelis\source\repos\FunctionsExampleAeroporiki\bin\Debug\FunctionsExampleAeroporiki.exe.config
+C:\Users\vagelis\source\repos\FunctionsExampleAeroporiki\bin\Debug\FunctionsExampleAeroporiki.exe
+C:\Users\vagelis\source\repos\FunctionsExampleAeroporiki\bin\Debug\FunctionsExampleAeroporiki.pdb
+C:\Users\vagelis\source\repos\FunctionsExampleAeroporiki\obj\Debug\FunctionsExampleAeroporiki.exe
+C:\Users\vagelis\source\repos\FunctionsExampleAeroporiki\obj\Debug\FunctionsExampleAeroporiki.pdb
